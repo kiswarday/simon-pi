@@ -1,6 +1,6 @@
 # Simon Pi
 
-"Simon" electronic game of memory skill implmented using a Raspberry Pi.
+"Simon" electronic game of memory skill implemented using a Raspberry Pi.
 
 To start the game (using python 3) type
 ```
